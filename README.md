@@ -1,2 +1,2 @@
 # Yii1
-First Stage
+First Stage of studiyng YII framework
